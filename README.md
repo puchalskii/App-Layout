@@ -1,16 +1,7 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Sistema desenvolvido como atividade vinculada ao Módulo 2 do curso Desenvolvimento Web.
 
-## Getting Started
+## Biografias Inspiradoras
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Descubra as vidas fascinantes de três dos maiores gênios da ciência: Gregor Mendel, Isaac Newton e Albert Einstein. Em "Biografias Inspiradoras", mergulhe nas histórias de perseverança, inovação e descobertas que moldaram o mundo como o conhecemos.
